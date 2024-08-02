@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:regular,500,600,800&display=swap");
+
+@font-face {
+   font-family: 'SourceSerifPro';
+   src: url("../fonts/SourceSerifPro-Bold.woff2") format("woff2"),
+      url("../fonts/SourceSerifPro-Bold.woff") format("woff");
+   font-display: swap;
+   font-weight: 700;
+   font-style: normal;
+}
